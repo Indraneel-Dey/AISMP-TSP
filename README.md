@@ -1,6 +1,9 @@
 Name: Indraneel Dey BSc in Data Science and Programming
+
 Roll number: 21f3002696 
+
 AI: Search Methods for Problem Solving
+
 Programming Assignment Report
 
 This report is about the explanation of an algorithm used to find an optimal tour of the Travelling Salesman Problem (TSP) within time constraints. The algorithm used has the following steps:
